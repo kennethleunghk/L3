@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 891.7 397.6" enable-background="new 0 0 891.7 397.6" xml:space="preserve">
+<g id="Layer_2">
+</g>
+<g id="dna" display="none">
+</g>
+<g id="Layer_12">
+	<g id="New_Symbol_3">
+	</g>
+</g>
+<g id="Layer_3" display="none">
+</g>
+<g id="Layer_1">
+	<rect x="2.1" y="2" fill="#00698C" width="887.9" height="72.9"/>
+	<rect x="2.1" y="2" fill="none" stroke="#00698C" stroke-width="3" stroke-miterlimit="10" width="887.9" height="394.2"/>
+	<g id="New_Symbol_1_">
+	</g>
+	<g id="New_Symbol">
+	</g>
+	<g id="New_Symbol_2_">
+	</g>
+	<g id="New_Symbol_6_">
+	</g>
+	<g id="New_Symbol_5_">
+	</g>
+	<g id="New_Symbol_3_">
+	</g>
+	<g id="New_Symbol_4_">
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 25.674 121.895)"><tspan x="0" y="0" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">AWS x3.8xlarge (32 cores)</tspan><tspan x="0" y="60" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">E5-2692v2 * 2 (24 cores)</tspan><tspan x="0" y="120" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">E5-2620 * 2 (12 cores) </tspan><tspan x="0" y="180" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">E5-2637v2 * 2 (8 cores)</tspan><tspan x="0" y="240" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">IBM Power8 (GPU)</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 493.0312 121.8944)"><tspan x="0" y="0" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">4.08</tspan><tspan x="0" y="60" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">5.21</tspan><tspan x="0" y="120" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">7.19</tspan><tspan x="0" y="180" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">8.42</tspan><tspan x="0" y="240" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">4.67</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 428.0302 50.3984)" fill="#FFFFFF" font-family="'Montserrat-Bold'" font-size="30.0296">50x WGS (hr)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 657.519 50.3983)" fill="#FFFFFF" font-family="'Montserrat-Bold'" font-size="30.0296">210 WES (min) </text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 727.0079 121.895)"><tspan x="0" y="0" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">12.75</tspan><tspan x="0" y="60" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">14.88</tspan><tspan x="0" y="120" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">16.12</tspan><tspan x="0" y="180" fill="#00698C" font-family="'Montserrat-Regular'" font-size="30.0296">22.02</tspan><tspan x="0" y="240" fill="#428BC7" font-family="'Montserrat-Regular'" font-size="30.0296">14.05</tspan></text>
+	</g>
+</g>
+</svg>
